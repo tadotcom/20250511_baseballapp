@@ -1,0 +1,2 @@
+C:/Users/peert/AndroidStudioProjects/kusakusa_20250510/android/app/.cxx/Debug/57u4n4d5/x86/CMakeFiles/edit_cache.dir
+C:/Users/peert/AndroidStudioProjects/kusakusa_20250510/android/app/.cxx/Debug/57u4n4d5/x86/CMakeFiles/rebuild_cache.dir
